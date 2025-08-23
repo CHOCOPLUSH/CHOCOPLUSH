@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+</a>
+<img src="https://komarev.com/ghpvc/?username=jukejoints&color=FFC1CC&style=flat&label=txt" />⠀
+<p align="center">
+  
+<p align="center">
+meoow text
+</p>
+  
+<p align="center">
+  <img src="https://64.media.tumblr.com/5853c03cf41410cdda2a07dc8419c62d/1019392daa9899cb-c3/s1280x1920/57bb90a72c52d7d95d77fc625ddaae5ced3f016e.gifv"/>
+</p>
 
-<!--
-**CHOCOPLUSH/CHOCOPLUSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://64.media.tumblr.com/83ac140fdb15f2e8440cfe6d522a4f1b/ba34036afd22ac26-79/s1280x1920/e52fce72d411c64e5262d6a54f85b885d445a6e0.gifv"/>
