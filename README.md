@@ -11,12 +11,19 @@ meoow text
   <img src="https://64.media.tumblr.com/5853c03cf41410cdda2a07dc8419c62d/1019392daa9899cb-c3/s1280x1920/57bb90a72c52d7d95d77fc625ddaae5ced3f016e.gifv"/>
 </p>
 
-
-<details>
+<div align="center">
+  <table border="2">
+         <tr>
+       <td>
+         <br>
+  <details align="center">
 <summary>about me</summary>
   hiiiiiiiiiiii
 </p>
+    
 </details>
+         
+  </table>
 
 
 <p align="center">
