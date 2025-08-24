@@ -12,6 +12,12 @@ meoow text
 </p>
 
 
+<details>
+<summary>about me</summary>
+  hiiiiiiiiiiii
+</p>
+</details>
+
 
 <p align="center">
   <img src="https://64.media.tumblr.com/83ac140fdb15f2e8440cfe6d522a4f1b/ba34036afd22ac26-79/s1280x1920/e52fce72d411c64e5262d6a54f85b885d445a6e0.gifv"/>
