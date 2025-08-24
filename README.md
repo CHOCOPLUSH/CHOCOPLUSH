@@ -4,7 +4,7 @@
 
 <p align="center">
 </a>
-<img src="https://komarev.com/ghpvc/?username=jukejoints&color=FFC1CC&style=flat&label=txt" />⠀
+◟ ✦ ◝ ⠀⠀ <img src="https://komarev.com/ghpvc/?username=jukejoints&color=FFC1CC&style=flat&label=fruit_roll-up_counter" /> ⠀⠀ ◟ ✦ ◝ ⠀⠀ 
 <p align="center">
   
 <p align="center">
